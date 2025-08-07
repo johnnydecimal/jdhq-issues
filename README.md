@@ -1,2 +1,2 @@
 # jdhq-issues
-For JDHQ issues, as the main repo isn't public.
+For [JDHQ](https://jdhq.johnnydecimal.com) issues, as the main repo is private.
